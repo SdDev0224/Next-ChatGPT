@@ -1,4 +1,4 @@
-This is a [`ChatGPT`](http://135.181.49.37/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [`ChatGPT`](http://localhost/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Chat-GPT Next.js APP
 
